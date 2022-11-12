@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @spolonko
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning htnml5 and css3
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a web developer
+- 🌱 Up until javascript
 - 📫 How to reach me Phone: 08161736593
 
 <!---
